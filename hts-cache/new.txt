@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+03:43:46	664/664	---MCZ	200	added ('OK')	text/html	date:Fri,%2010%20Jun%202022%2000:43:46%20GMT	https://smrturl.co/o/263189/53230038?s1=	C:/Users/pc/Downloads/New%20folder%20(5)/1/smrturl.co/o/263189/532300388921.html	(from )
+03:43:46	26/26	---M--	200	added ('OK')	text/plain	etag:%221a-5a2f7428ad967%22	https://smrturl.co/robots.txt		(from )
